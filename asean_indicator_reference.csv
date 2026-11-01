@@ -1,0 +1,6 @@
+Indicator,World Bank Code,Measurement
+GDP Growth,NY.GDP.MKTP.KD.ZG,Annual real GDP growth (%)
+Inflation,FP.CPI.TOTL.ZG,Annual consumer price inflation (%)
+Unemployment,SL.UEM.TOTL.ZS,Unemployment as % of labour force
+Exchange Rate,PA.NUS.FCRF,Local currency units per USD
+FDI,BX.KLT.DINV.WD.GD.ZS,Net FDI inflows as % of GDP
