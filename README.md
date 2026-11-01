@@ -66,7 +66,7 @@ The analysis was conducted using Python in Google Colab.
 
 - Viet Nam recorded the highest average real GDP growth between 2000 and 2024, at approximately 6.33%.
 - During 2020, Viet Nam was the only economy among the five countries to maintain positive GDP growth, at 2.87%.
-- By 2024, Viet Nam's reconstructed GDP index had increased by approximately 28.66% relative to 2019, compared with 3.04% for Thailand.
+- By 2024, Viet Nam's reconstructed real GDP growth index (2019 = 100) had reached approximately 128.66, compared with 103.04 for Thailand.
 
 ### 2. Inflation Trends
 
