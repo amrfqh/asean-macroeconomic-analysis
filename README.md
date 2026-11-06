@@ -115,6 +115,6 @@ These correlations are exploratory and do not establish causal relationships. Po
 - The GDP recovery index is reconstructed from annual real GDP growth rates using 2019 as the base year. It represents cumulative changes implied by the growth rates and is not a separately observed GDP-level series.
 - The analysis is descriptive and does not control for other macroeconomic factors that may influence the observed relationships.
 
-## Author
 
-Independent macroeconomic data analysis project focused on ASEAN economies, developed using Python and publicly available World Bank data.
+
+
